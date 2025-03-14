@@ -1,4 +1,4 @@
-<h1 align="left">i am khalom</h1>
+<h1 align="left">i am Miguel Martinez ( Khalom ) </h1>
 
 ###
 

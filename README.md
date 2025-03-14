@@ -36,11 +36,9 @@
 
 ###
 
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
-
 ###
 
-<img align="right" height="150" src="https://imgflip.com/gif/9nf6ru"  />
+<img align="right" height="150" src="https://giphy.com/gifs/pudgypenguins-no-idea-i-have-what-im-doing-25UxpWoNBu8nOtURm9"  />
 
 ###
 

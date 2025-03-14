@@ -38,7 +38,7 @@
 
 ###
 
-<img align="right" height="150" src="https://giphy.com/gifs/pudgypenguins-no-idea-i-have-what-im-doing-25UxpWoNBu8nOtURm9"  />
+<img align="right" height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjd3NzRiZ2trOWw3OG8xMjIzOXNrbGlsaXVrdmpvbXF0ZXFmMDNzNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/25UxpWoNBu8nOtURm9/giphy.gif"  />
 
 ###
 

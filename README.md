@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working... on a app for scraping web<br>👯 I’m looking to collaborate... on developer software for use on farm<br>🤝 I’m looking for help with... Docker<br>🌱 I’m currently learning... machine learning<br>💬 Ask me about... anyting you want <br>⚡ Fun fact.. skynet is real
+🔭 I’m currently working... on agenci for traveling web page <br>👯 I’m looking to collaborate... on developer software for use on farm<br>🤝 I’m looking for help with... Docker<br>🌱 I’m currently learning... machine learning<br>💬 Ask me about... anyting you want <br>⚡ Fun fact.. skynet is real
 
 <img align="center" height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHZrZjVxYWdqNmNwc2NwdmJweGxpMGMxbWg1aWdveG5vNW9zZHVtbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CuuSHzuc0O166MRfjt/giphy.gif"/>
 

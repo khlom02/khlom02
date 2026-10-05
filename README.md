@@ -4,8 +4,8 @@
 <img align="center" height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHZrZjVxYWdqNmNwc2NwdmJweGxpMGMxbWg1aWdveG5vNW9zZHVtbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CuuSHzuc0O166MRfjt/giphy.gif"/>
 
 
-![Certificado Udemy](https://github.com/khlom02/khlom02/blob/main/certificado%20full%20stack%20udemy.pdf) 
-![Certificado Metodologia Scrum](https://github.com/khlom02/khlom02/blob/main/Certificado%20Sercotec%202023.pdf) 
+[Certificado Udemy](https://github.com/khlom02/khlom02/blob/main/certificado%20full%20stack%20udemy.pdf) 
+[Certificado Metodologia Scrum](https://github.com/khlom02/khlom02/blob/main/Certificado%20Sercotec%202023.pdf) 
 
 
 ## 🌐 Socials:
@@ -25,8 +25,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-![](https://visitcount.itsvg.in/api?id=khlom02&icon=0&color=0)](https://visitcount.itsvg.in)
-
+![](https://visitcount.itsvg.in/api?id=khlom02&icon=0&color=0)]
 
 
 
